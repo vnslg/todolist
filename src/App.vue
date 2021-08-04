@@ -3,7 +3,7 @@
     <div class="flex">
       <div class="widht35"></div>
       <div>
-        <h1 class="todoApp">Todo App com alteração</h1>
+        <h1 class="todoApp">Todo App</h1>
         <p class="novotodo">Novo Todo</p>
         <input
           class="input"
